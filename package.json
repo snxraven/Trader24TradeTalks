@@ -1,0 +1,46 @@
+{
+  "name": "Trader24",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://stocks-af048.web.app/",
+  "dependencies": {
+    "@firebase/performance": "^0.2.29",
+    "array-sum": "^1.0.0",
+    "chart.js": "^2.9.3",
+    "chartjs-plugin-annotation": "^0.5.7",
+    "currency-formatter": "^1.5.5",
+    "firebase": "^5.11.1",
+    "firebase-admin": "^8.9.2",
+    "firebase-functions": "^3.3.0",
+    "firebase-tools": "^7.11.0",
+    "node-sass": "^4.13.0",
+    "npm": "^6.13.6",
+    "react": "^16.12.0",
+    "react-chartjs-2": "^2.8.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.0",
+    "react-test-renderer": "^16.12.0",
+    "react-typeme": "^1.0.1",
+    "react-wait": "^0.3.0",
+    "serve": "^11.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "google-charts": "^2.0.0"
+  }
+}
